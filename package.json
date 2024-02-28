@@ -1,6 +1,6 @@
 {
   "name": "tancache",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "A directory tree caching command line tool",
   "main": "index.js",
   "bin": {
@@ -26,7 +26,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Chiricato/tancache"
+    "url": "https://github.com/Chiricato/tancache.git"
   },
   "bugs": {
     "url": "https://github.com/Chiricato/tancache/issues"
